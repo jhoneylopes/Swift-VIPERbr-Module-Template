@@ -7,3 +7,7 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 # Swift-VIPERbr-Module-Template
+
+![alt text](https://github.com/jhoneylopes/Swift-VIPERbr-Module-Template/blob/master/Templates/File%20Templates/VIPERbr/Module.xctemplate/TemplateIcon@3x.png?raw=true)
+
+To use this template you have to add the **Template** folder into `~/Library/Developer/Xcode/` after that you will see the icon above on the end of the scroll, double click on the icon to add all the files to your project.
