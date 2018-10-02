@@ -37,8 +37,8 @@ extension ___VARIABLE_moduleName___Provider: ___VARIABLE_moduleName___ProviderPr
   func get___VARIABLE_moduleName___(with params: [String: AnyObject], success: @escaping BaseSuccessCallback, failure: @escaping BaseFailureCallback) {        
     BaseProvider().request(method: method, endPoint: path, params: params, successBlock: { response in      
       success(response)
-    }) { error in
+    }, failure: { error in
       failure(error)
-    }
+    })
   }
 }
