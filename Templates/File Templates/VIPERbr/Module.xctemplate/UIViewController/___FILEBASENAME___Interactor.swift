@@ -28,8 +28,8 @@ extension ___VARIABLE_moduleName___Interactor: ___VARIABLE_moduleName___Interact
       if let result = data as? [String: AnyObject] {
         resp.response___VARIABLE_moduleName___InteractorResponseSuccess(response: ___VARIABLE_moduleName___Model.parse(with: result))
       }
-    }) { _ in      
+    }, failure: { _ in
       resp.response___VARIABLE_moduleName___InteractorResponseError()
-    }
+    })
   }
 }

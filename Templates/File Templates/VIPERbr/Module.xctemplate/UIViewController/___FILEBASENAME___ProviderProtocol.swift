@@ -11,6 +11,6 @@ import Foundation
 
 protocol ___VARIABLE_moduleName___ProviderProtocol {
   func get___VARIABLE_moduleName___(with params: [String: AnyObject],
-                                    success: @escaping BaseSuccessCallback,
-                                    failure: @escaping BaseFailureCallback)
+                                    success: @escaping <#success callback#>,
+                                    failure: @escaping <#failure callback#>)
 }
